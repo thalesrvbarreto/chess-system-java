@@ -2,10 +2,10 @@
 
 Content
 =================
-   * [About](##About)
-   * [Prerequisites](###Prerequisites)
-   * [Executing](###Executing)
-   * [Technologies](###Technologies)
+   * [About](#About)
+   * [Prerequisites](#Prerequisites)
+   * [Executing](#Executing)
+   * [Technologies](#Technologies)
 
 ## About
 Project created with the purpose of practicing the basic use of Java programming language. Featuring a GitBash Chess game developed during a Udemy Course. 
