@@ -25,7 +25,7 @@ $ cd bin
 $ java application/Main
 # The program should start as below
 ```
-<h1 align="center">
+<h1 align="left">
   <img alt="chess-system-java" title="#ChessSystem" src="./assets/chess-system.png" />
 </h1>
 
